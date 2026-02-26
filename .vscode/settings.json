@@ -3,6 +3,8 @@
         "/^cd /workspaces/skills-getting-started-with-github-copilot && git checkout accelerate-with-copilot && git add -A && git status$/": {
             "approve": true,
             "matchCommandLine": true
-        }
+        },
+        "pip": true,
+        "pytest": true
     }
 }
